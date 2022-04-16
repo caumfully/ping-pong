@@ -1,2 +1,3 @@
 # ping-pong
-fdjsfjdkjdls
+Игра пинг понг
+V1.0
